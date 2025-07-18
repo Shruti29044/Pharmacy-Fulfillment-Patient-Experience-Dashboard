@@ -89,5 +89,5 @@ MIT License — feel free to use or modify for portfolio, internal use, or learn
 
 ## 🙋 Contact
 
-Built by [Your Name] — inspired by CVS Health analytics experience.  
-For questions or collaboration: [your-email@example.com]
+Built by Shruti Devani — inspired by CVS Health analytics experience.  
+
